@@ -145,21 +145,21 @@ Below is the pruduct list that the eye tracker contains. Please check the conten
 
 ### Gazepoint Analysis Hotkeys
 
-CTRL+ALT+R = start data record
+* CTRL+ALT+R = start data record
 
-CTRL+ALT+S = stop data record
+* CTRL+ALT+S = stop data record
 
-ALT+ left arrow = go to start of recording
+* ALT+ left arrow = go to start of recording
 
-ALT+ right arrow = go to end of recording
+* ALT+ right arrow = go to end of recording
 
-ALT+ z = toggle playback zoom
+* ALT+ z = toggle playback zoom
 
-ALT+ p = play recording or pause recording
+* ALT+ p = play recording or pause recording
 
-ALT+ up arrow = skip to previous recording
+* ALT+ up arrow = skip to previous recording
 
-ALT+ down arrow = skip to next recording
+* ALT+ down arrow = skip to next recording
 
 
 ## SDK

@@ -25,7 +25,7 @@
 Storage Room - Shelf A1
 
 ## In The Box
-Below is the pruduct list that the eye tracker contains. Please check the contents when you recieve it and before you return.
+Below is the product list that the eye tracker contains. Please check the contents when you receive it and before you return.
 1. Box
 2. Eye tracker
 3. Eye tracker bag
@@ -134,11 +134,11 @@ Below is the pruduct list that the eye tracker contains. Please check the conten
    Data Files:
 
    0001-user.csv – contains all captured data
-   
+
    0001-user-fix.csv – only the fixations are listed
-   
+
    CurrentAOIStatisticsX.csv – lists the statistics for the AOIs (only created if AOIs are used)
-   
+
    CurrentImageX.png – copy of image currently in the Analysis display window (can be paused at any point of recording)
 
 10. Click Export icon to export the data. Data is exported to the \result folder inside your project folder.
